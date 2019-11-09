@@ -1,7 +1,3 @@
-// Goyal, Shivam
-// sxg7663
-// 2019-08-01
-//--------#---------#---------#---------#--------#
 #include <ctype.h>
 #include <stdio.h>
 #include <stdlib.h>
