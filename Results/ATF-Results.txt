@@ -1,0 +1,10 @@
+100 characters, 800 fixed bits, 224 Huffman bits (28 bytes), ratio 0.2800.
+
+
+'F'  :      5 : 1100
+'E'  :      9 : 1101
+'C'  :     12 : 100
+'B'  :     13 : 101
+'D'  :     16 : 111
+'A'  :     45 : 0
+
